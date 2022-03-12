@@ -4,6 +4,6 @@ hello git! hello dango!
 hello git! hello dango!
 hello git! hello dango!
 hello git! hello dango!
-hello git! hello dango!
+hello git! hello dango!master
 hello git! hello dango!
 hello git! hello dango!
