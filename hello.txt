@@ -4,6 +4,6 @@ hello git! hello dango!
 hello git! hello dango!
 hello git! hello dango!
 hello git! hello dango!
-hello git! hello dango!
+hello git! hello dango!hot-fix
 hello git! hello dango!
 hello git! hello dango!hot-fix test
